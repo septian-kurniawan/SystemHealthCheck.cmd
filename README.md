@@ -3,10 +3,10 @@ Catatan Skrip CMD: Pengecekan Kesehatan Sistem Windows
 Skrip ini saya buat untuk kebutuhan operasional sehari-hari di lapangan, terutama saat harus mengecek kondisi komputer atau laptop kantor secara cepat tanpa ribet pasang aplikasi tambahan.
 
 Apa saja yang dicek oleh skrip ini:
-- Memeriksa kondisi CPU, sisa RAM, dan kapasitas penyimpanan harddisk atau SSD[cite: 2].
-- Mengecek status hardware disk, layanan penting Windows, sampai keberadaan antivirus yang aktif[cite: 2].
-- Menarik informasi jaringan dasar seperti IP dan konfigurasi lokal[cite: 2].
-- Merekap semuanya secara otomatis menjadi file teks (.txt) lengkap dengan tanggal dan jam pengecekannya agar mudah dijadikan arsip laporan[cite: 2].
+- Memeriksa kondisi CPU, sisa RAM, dan kapasitas penyimpanan harddisk atau SSD.
+- Mengecek status hardware disk, layanan penting Windows, sampai keberadaan antivirus yang aktif.
+- Menarik informasi jaringan dasar seperti IP dan konfigurasi lokal.
+- Merekap semuanya secara otomatis menjadi file teks (.txt) lengkap dengan tanggal dan jam pengecekannya agar mudah dijadikan arsip laporan.
 
 Cara Pakainya:
 1. Simpan file SystemCheck.cmd di komputer.
